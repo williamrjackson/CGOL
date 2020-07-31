@@ -37,7 +37,7 @@ public class CGOL : MonoBehaviour
         float boardScaleValue = 0.08f;
         boardParent.localScale = Vector3.one * boardScaleValue;
 
-        StartWithRandom();
+        // StartWithRandom();
     }
 
     private void Update()
